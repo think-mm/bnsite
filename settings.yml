@@ -1,0 +1,6 @@
+Host: arc.muktomona.com
+LinksUseHttps: true
+SiteTitle: মুক্তমনা আর্কাইভ
+Description: অভিজিৎ রায় রচিত সকল প্রবন্ধ, নিবন্ধ, গবেষণা, বই ও ব্লগ পোস্টের আর্কাইভ
+EditLink: => "https://github.com/think-mm/bnsite/edit/dev/input/" + doc.Source.GetRelativeInputPath()
+GenerateSearchIndex: true
