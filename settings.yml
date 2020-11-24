@@ -1,8 +1,8 @@
-Host: home.skeptics.xyz
+Host: blog.skeptics.xyz
 LinksUseHttps: true
 MirrorResources: true
-EditLink: => "https://github.com/think-mm/home/edit/dev/input/" + doc.Source.GetRelativeInputPath()
+EditLink: => "https://github.com/think-mm/blog/edit/dev/input/" + doc.Source.GetRelativeInputPath()
 GitHubOwner: think-mm
-GitHubName: home
+GitHubName: blog
 GitHubToken: => Config.FromSetting<string>("GITHUB_TOKEN")
 GitHubBranch: main
