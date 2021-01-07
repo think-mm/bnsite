@@ -5,4 +5,4 @@ EditLink: => "https://github.com/think-mm/blog/edit/dev/input/" + doc.Source.Get
 GitHubOwner: think-mm
 GitHubName: blog
 GitHubToken: => Config.FromSetting<string>("GITHUB_TOKEN")
-GitHubBranch: main
+GitHubBranch: web
