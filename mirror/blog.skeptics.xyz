@@ -1,31 +1,120 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+﻿<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>মুক্তমনা ব্লগ - মুক্তমনায় স্বাগতম</title>
+<link rel="canonical" href="/mirror/blog.skeptics.xyz">
+<link type="application/rss+xml" rel="alternate" href="/feed.rss">
+<link type="application/atom+xml" rel="alternate" href="/feed.atom">
+<meta name="application-name" content="মুক্তমনা ব্লগ">
+<meta name="msapplication-tooltip" content="মুক্তমনা ব্লগ">
+<meta name="msapplication-starturl" content="/">
+<meta property="og:title" content="মুক্তমনা ব্লগ - মুক্তমনায় স্বাগতম">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://blog.skeptics.xyz/">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-<title>home | blog</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="home" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Landing site of mukto-mona" />
-<meta property="og:description" content="Landing site of mukto-mona" />
-<link rel="canonical" href="https://blog.skeptics.xyz/" />
-<meta property="og:url" content="http://blog.skeptics.xyz/" />
-<meta property="og:site_name" content="blog" />
-<script type="application/ld+json">
-{"@type":"WebSite","headline":"home","url":"http://blog.skeptics.xyz/","description":"Landing site of mukto-mona","name":"blog","@context":"https://schema.org"}</script>
+<link href="/vendor/bootstrap/scss/bootstrap.css" rel="stylesheet">
 
-<link rel="stylesheet" href="/assets/css/style.css?v=85eb0e892beeef05466be1c6ecdffe89c60a53b6">
+<link href="/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+<link href="/vendor/fontawesome-free/css/brands.min.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" data-no-mirror="">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" data-no-mirror="">
+
+<link href="/scss/clean-blog.css" rel="stylesheet">
+<script src="/mirror/cdn.jsdelivr.net/npm/prismjs@1.19.0/components/prism-core.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/prismjs@1.19.0/plugins/autoloader/prism-autoloader.min.js" data-no-mirror=""></script>
+<script src="/mirror/cdn.jsdelivr.net/npm/quicklink@2.0.0/dist/quicklink.umd.js"></script>
+<link rel="stylesheet" href="/mirror/cdn.jsdelivr.net/npm/prismjs@1.19.0/themes/prism.css">
 </head>
 <body>
-<div class="container-lg px-3 my-5 markdown-body">
-<h1><a href="https://blog.skeptics.xyz/">blog</a></h1>
-<h1 id="home">home</h1>
-<p>Landing site of mukto-mona</p>
+
+<nav class="navbar navbar-expand-lg navbar-light fixed-top bg-light">
+<div class="container">
+<a class="navbar-brand" href="/"><img id="logo" class="img-fluid center" src="/assets/mm logo.svg" width="70%" alt="MuktoMona Logo"></a>
+<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+Menu
+<i class="fas fa-bars"></i>
+</button>
+<div id="collapse-topnav" class="collapse navbar-collapse flex-wrap">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item"><a class="nav-link" href="/">ব্লগ নীড়পাতা</a></li>
+<li class="nav-item"><a class="nav-link" href="/">পরিচিতি</a></li>
+<li class="nav-item"><a class="nav-link" href="/">বিষয়ভিত্তিক</a></li>
+<li class="nav-item"><a class="nav-link" href="/">পডকাস্ট</a></li>
+<li class="nav-item"><a class="nav-link" href="/">ই-গ্রন্থাগার</a></li>
+<li class="nav-item"><a class="nav-link" href="/">বিবর্তন আর্কাইভ</a></li>
+<li class="nav-item"><a class="nav-link" href="/">অভিজিৎ রায়</a></li>
+<li class="nav-item"><a class="nav-link" href="/">সহায়িকা</a></li>
+</ul>
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-<script>anchors.add();</script>
-</body>
-</html>
+<div class="collapse navbar-collapse" id="navbarResponsive">
+<ul class="navbar-nav ml-auto">
+</ul>
+</div>
+</div>
+</nav>
+
+<header class="masthead">
+<div class="overlay"></div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="site-heading">
+<h1>
+মুক্তমনায় স্বাগতম
+</h1>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+<div class="container">
+<div class="row">
+<div id="content" class="col-md-12">
+<h2 id="section">অভিজিৎ আর্কাইভ</h2>
+<p>অভিজিৎ রায় রচিত সকল প্রবন্ধ, নিবন্ধ, গবেষণা, বই ও ব্লগ পোস্টের আর্কাইভ।</p>
+<p>মুক্তমনা অভিজিৎ রায় (১৯৭১-২০১৫) কর্তৃক ২০০১ সালে প্রতিষ্ঠিত এবং মানবতাবাদীদের দ্বারা পরিচালিত একটি আন্তর্জালিক চক্র। মুক্তমনা বর্তমান সমাজে বিদ্যমান অদৃষ্টবাদ, ভাববাদ আর বিশ্বাসনির্ভর লাগাতার প্রকাশনা আর প্রচারণার বিপরীতে একটি বিজ্ঞানমনস্ক এবং যুক্তিবাদী ধারা প্রবর্তনে বদ্ধপরিকর।</p>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+<p>যোগাযোগ: contact 'এট' mukto-mona 'ডট' com</p>
+</div>
+</div>
+</div>
+<hr>
+
+<footer>
+<div class="container">
+<div class="row justify-content-md-center">
+<div class="col-md-3 text-center">
+<a href="/"><img id="flogo" class="img-fluid center" src="/assets/mm logo.svg" alt="MuktoMona Logo"></a>
+</div>
+</div>
+<div class="row justify-content-md-center">
+<div class="col-sm-3 social-icons">
+<a href="https://www.facebook.com/muktomonaofficial"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
+ <a href="https://twitter.com/AvijitsMM"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
+<a href="https://plus.google.com/105614742272236060197"><i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i></a>
+<a href="https://www.youtube.com/channel/UCKqgpT9IV2wUMueMF7cCsSw"><i id="social-yt" class="fa fa-youtube-square fa-3x social"></i></a>
+<a href="/cdn-cgi/l/email-protection#086b67667c696b7c48657d637c672565676669266b6765"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
+</div>
+<div class="col-md-12 text-center">
+<ul class="list-inline text-center small">
+<li class="list-inline-item">
+<a href="/feed.rss"><i class="fa fa-rss"></i> RSS Feed</a>
+</li>
+<li class="list-inline-item">
+<a href="/feed.atom"><i class="fa fa-rss"></i> Atom Feed</a>
+</li>
+</ul>
+<p class="copyright text-muted m-0"> মুক্তমনা © ২০২০, সর্বস্বত্ব সংরক্ষিত। </p>
+</div>
+</div>
+</div>
+</footer>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/vendor/jquery/jquery.min.js"></script>
+<script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<script src="/js/clean-blog.js"></script>
+</body></html>
