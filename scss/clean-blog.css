@@ -127,6 +127,14 @@ footer .list-inline { margin: 0; padding: 0; }
 
 footer .copyright { font-size: 14px; margin-bottom: 0; text-align: center; }
 
+footer .social-icons a { display: inline-block; margin: 2px 5px; width: 35px; height: 35px; border: solid 1px transparent; border-radius: 50%; }
+
+footer .social-icons a:hover { border-color: #404040; background: #2b2b2b; }
+
+footer .social-icons a img { width: 23px; display: block; margin: 5px auto; }
+
+footer .social-icons a:hover img { opacity: 0.5; transition: 500ms; }
+
 .btn { font-size: 14px; font-weight: 800; padding: 15px 25px; letter-spacing: 1px; text-transform: uppercase; border-radius: 0; font-family: 'Shurjo', 'Roboto', 'Loto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
 .btn-primary { background-color: #007bff; border-color: #007bff; }
